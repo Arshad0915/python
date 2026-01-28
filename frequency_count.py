@@ -41,3 +41,4 @@ res=freq_count(arr)
 res1=freq_count_dict(arr)
 print(res)
 print(res1)
+

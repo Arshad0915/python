@@ -11,3 +11,4 @@ def insertion_sort(nums):
 l=list(map(int,input().split()))
 res=insertion_sort(l)
 print(res)
+

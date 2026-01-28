@@ -42,3 +42,4 @@ def selection_sort(nums):
 l=list(map(int,input().split()))
 res=selection_sort(l)
 print(res)
+

@@ -15,3 +15,4 @@ def rev_num_1(n):
 
 a=int(input())
 print(rev_num_1(a))
+

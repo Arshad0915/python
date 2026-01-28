@@ -20,3 +20,4 @@ print("Employee Salary :",empsal)
 print("Employee Address:",eadd)
 print("Employee Married? :",emar)
 
+

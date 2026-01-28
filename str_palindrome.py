@@ -8,3 +8,4 @@ def palindrome(s,i):
 
 s=input()
 print(palindrome(s,0))
+

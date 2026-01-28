@@ -9,3 +9,4 @@ def bubble_sort(nums):
 l=list(map(int,input().split()))
 res=bubble_sort(l)
 print(res)
+

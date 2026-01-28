@@ -10,3 +10,4 @@ def hcf_(n1,n2):
 a=int(input())
 b=int(input())
 print(hcf_(a,b))
+

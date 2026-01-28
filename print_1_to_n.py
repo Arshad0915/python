@@ -26,3 +26,4 @@ def print_1_n(n):
 
 n=int(input())
 print_1_n(n)
+

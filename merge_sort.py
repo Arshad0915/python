@@ -34,3 +34,4 @@ l=list(map(int,input().split()))
 merge_sort(l,0,len(l)-1)
 print(l)
 
+
